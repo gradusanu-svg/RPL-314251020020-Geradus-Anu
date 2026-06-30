@@ -1,4 +1,6 @@
-# RPL-314251020020-Geradus-A# Praktikum Rekayasa Perangkat Lunak
+# RPL-314251020020-GeradusAnu 
+
+# Praktikum Rekayasa Perangkat Lunak
 ## Sistem Informasi Klinik Kesehatan
 
 # Identitas Mahasiswa
